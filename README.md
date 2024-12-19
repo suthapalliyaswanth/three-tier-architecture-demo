@@ -125,4 +125,6 @@ To test the metrics use:
 $ curl http://<host>:8080/api/cart/metrics
 $ curl http://<host>:8080/api/payment/metrics
 ```
+# output
+![Screenshot 2024-12-15 180421](https://github.com/user-attachments/assets/2b8ac9a1-1baa-49e4-8bdf-44ff36dccc29)
 
